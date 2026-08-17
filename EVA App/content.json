@@ -1,0 +1,432 @@
+{
+  "microPractices": [
+    {
+      "id": "MP-01",
+      "title": "Breath Awareness",
+      "durationMinutes": 15,
+      "whatYouNeed": "Somewhere to sit. No devices required.",
+      "primaryCapacity": "Focused attention, and meta-awareness of mind-wandering.",
+      "instruction": "Sit comfortably and close your eyes, or set your gaze on a fixed point. Rest your attention on the physical sensation of breathing, wherever you feel it most clearly: at the nostrils, in the chest, or in the belly. Breathe normally and do not try to control the breath. When you notice that your mind has drifted to a thought, a memory, or anything else, bring your attention back to the breath. Set a timer for 15 minutes.",
+      "whyItWorks": "This practice trains one specific skill: noticing when your attention has drifted and bringing it back. One's own breath serves as the anchor of this practice because it is always available and because leaving it is easy to detect. Over time, you will more quickly notice when your attention is interrupted and more easily bring it back.",
+      "reflectionPrompt": "How quickly did you tend to notice you had wandered? Did returning feel any easier by the end than at the start?"
+    },
+    {
+      "id": "MP-02",
+      "title": "Go Outside and Move",
+      "durationMinutes": 15,
+      "whatYouNeed": "Outdoors. Phone in a bag or pocket, on silent. No earbuds.",
+      "primaryCapacity": "Restoration of directed attention, and the executive-control boost of physical activity.",
+      "instruction": "Go outside and walk for 15 minutes, somewhere with as much green or open sky as you can reach: a park, a tree-lined street, a path, a quiet block. Move at a brisk but comfortable pace. Keep your phone away and your ears free of audio. Direct your attention to what is around you, such as the light, the movement, the sounds, but let your mind wander, too.",
+      "whyItWorks": "Directed attention is the effortful focus you use to work, resist distraction, and make decisions. It is a limited resource that depletes with use. When depleted, we are more distractible and impatient. Spending time in natural settings replenishes it, since nature is \"softly fascinating\" and holds our senses without demanding the constant filtering that busy or digital environments require. Two mechanisms are at play: restoration from the natural setting, and a separate boost to executive control from the physical movement itself.",
+      "reflectionPrompt": "How did your head feel afterward compared with before you went out? What did you notice outside that you would have missed with earbuds in?"
+    },
+    {
+      "id": "MP-03",
+      "title": "Write by Hand",
+      "durationMinutes": 15,
+      "whatYouNeed": "Paper and a pen or pencil.",
+      "primaryCapacity": "Generative sustained attention, and deliberate engagement with your own thinking.",
+      "instruction": "Write by hand, continuously, for 15 minutes. A journal entry, the start of a story, a letter you may not send, a working-through of something on your mind. If you struggle to come up with ideas, describe what is in front of you until the next thought comes, and keep the pen moving. Do not stop to edit, and do not switch to a screen if you get stuck or bored.",
+      "whyItWorks": "Because you cannot write as fast as you think, you have to decide what is worth committing to the page, and that small act of selection forces engagement with your own thinking. Composing rather than copying demands a continuous, self-directed kind of attention. A sheet of paper also has no notifications, no links, and nothing to switch to, so the practice protects a stretch of uninterrupted, generative focus.",
+      "reflectionPrompt": "Did writing at the pace of the hand change what you thought about, or how you put it?"
+    },
+    {
+      "id": "MP-04",
+      "title": "Memorize and Recall",
+      "durationMinutes": 15,
+      "whatYouNeed": "A short poem or passage the app provides.",
+      "primaryCapacity": "Effortful retrieval, sustained verbal attention, and memory consolidation.",
+      "instruction": "The app gives you a short poem or passage, usually four to eight lines. Read it through slowly once or twice, then set it aside and write it out from memory, word for word. Check what you wrote against the original, go back for what you missed, and try again. Repeat the cycle for 15 minutes, aiming to get every word right.",
+      "whyItWorks": "Reading something and retrieving it from memory are different acts. Reading is receptive and can be done on autopilot. Retrieval is effortful in that it requires you to hold the material in mind and reconstruct it, and that effort is what strengthens memory. This is the \"testing effect,\" one of the most replicated findings in cognitive science, and it explains why self-quizzing beats rereading. This practice also trains a precise form of sustained verbal attention.",
+      "reflectionPrompt": "What surprised you about what you remembered correctly and what you got wrong?"
+    },
+    {
+      "id": "MP-05",
+      "title": "Draw What You See",
+      "durationMinutes": 15,
+      "whatYouNeed": "A pencil or pen, paper, and an image the app provides.",
+      "primaryCapacity": "Perceptual attention, and resolving visual detail rather than accepting categorical labels.",
+      "instruction": "The app gives you an artwork to draw. Spend 15 minutes sketching it. No drawing skill is needed and no one will see the result.",
+      "whyItWorks": "When drawing an object, you have to attend to the actual edges, proportions, and shadows in front of you, which requires a slower and more discriminating kind of looking than we ordinarily engage in.",
+      "reflectionPrompt": "What did you see in the image while drawing it that you had missed at first glance?"
+    },
+    {
+      "id": "MP-06",
+      "title": "Slow Looking",
+      "durationMinutes": 15,
+      "whatYouNeed": "Any object or scene in front of you. No phone.",
+      "primaryCapacity": "Sustained perceptual attention, and overcoming the habituation that makes us stop seeing.",
+      "instruction": "Choose one thing and look at it, without looking away, for 15 minutes. An object on the table, a plant, a building across the street, a patch of sky. Set a timer. When your attention wanders or the thing starts to feel boring, stick with it.",
+      "whyItWorks": "The brain is built to register change and ignore the familiar, so after the first glance most of what you are looking at drops out of awareness. Holding your gaze past that point keeps the visual system working. Done properly, new details will emerge: shifts in color, texture, the way light falls, and so on. Most of the work is resisting the restlessness that makes you want to move on.",
+      "reflectionPrompt": "What did you find after the first few minutes that the first glance had not registered?"
+    },
+    {
+      "id": "MP-07",
+      "title": "Read",
+      "durationMinutes": 15,
+      "whatYouNeed": "A book or long-form article. Phone in another room.",
+      "primaryCapacity": "Deep reading, sustained attention, and resistance to digital skimming habits.",
+      "instruction": "Read from a book or a long piece of writing for 15 minutes. Stay with one text. Do not switch articles, follow links, or look things up as you go. We suggest putting your phone in another room, not face-down beside you.",
+      "whyItWorks": "Our digital lives have trained us to scan for keywords, skip ahead between sections, and move between sources. That is sometimes an appropriate way to read, but we should not lose sight of deep reading, which happens when we follow an argument or a narrative across sustained stretches of text. Like the other capacities in this library, deep reading weakens without use.",
+      "reflectionPrompt": "Did your mind stay with the text or wander from it? What pulled it back, or pulled it away?"
+    }
+  ],
+  "attentionalGoals": [
+    {
+      "week": 1,
+      "virtue": "Patience",
+      "virtueTagline": "Give it time!",
+      "virtueDescription": "The habit of staying with difficult or unsettled questions without rushing to closure. It helps you wait long enough for clearer understanding to take shape.",
+      "goalTitle": "Make honey, not nectar",
+      "goalStatement": "Each day I will take one idea, problem, or question that matters to me and come back to it at intervals, turning it over again as the hours pass.",
+      "rationale": "In our busy lives, most things get only one pass. But an idea only matures if you return to it more than once and over time. Seneca made this point with bees: their honey lasts because they keep working the same nectar, while nectar collected and left alone spoils in a few days. An idea works the same way. Return to it across a day and it can generate lasting insights.",
+      "endOfWeekReflection": "What did you keep returning to this week, and did coming back to it change how you understood it?"
+    },
+    {
+      "week": 2,
+      "virtue": "Reality-Orientation",
+      "virtueTagline": "See clearly!",
+      "virtueDescription": "The habit of looking at things as they really are, even when this challenges your assumptions or desires. It helps you resist illusion and self-deception by attending closely to what is before you.",
+      "goalTitle": "Separate what you saw from what you assumed",
+      "goalStatement": "When I feel sure what something means, I will first describe only what I can actually observe, and treat my interpretation as a separate step.",
+      "rationale": "We rarely see a situation plainly. We see it already interpreted, even when it feels like a brute fact. This habit is about separating what is actually in front of you from what you have inferred or concluded about it. The way to practice cultivating it is to mentally insert a gap between one's observation and one's interpretation.",
+      "endOfWeekReflection": "Were there moments this week when what you observed and what you had assumed turned out to be different things?"
+    },
+    {
+      "week": 3,
+      "virtue": "Just Attention",
+      "virtueTagline": "Listen charitably!",
+      "virtueDescription": "The habit of attending to others fairly and without distortion. It helps you give genuine regard to opposing viewpoints and resist the pull of selective or self-serving listening.",
+      "goalTitle": "Listen well enough to pass their test",
+      "goalStatement": "In each conversation, before I give my own reply I will make sure I could state the other person's point in a way they would endorse as fair.",
+      "rationale": "When we disagree, we tend to listen strategically, waiting for the gap where we can achieve argumentative victory. Often, we begin crafting our rejoinder while they are still talking. That is not listening. In contrast, this habit offers a litmus test: you should be able to articulate your interlocutor's point in such a way that they would endorse it.",
+      "endOfWeekReflection": "Was there a conversation where trying to pass this test changed what you heard, or how you answered?"
+    },
+    {
+      "week": 4,
+      "virtue": "Humility",
+      "virtueTagline": "It's not (all) about you!",
+      "virtueDescription": "The habit of seeing yourself and the world without the distortions of ego. It helps you regard things more truthfully and make room for reality to show itself.",
+      "goalTitle": "Ask what you might be missing, and mean it",
+      "goalStatement": "At least once a day, when I feel most certain or most defensive, I will stop and ask what I might be missing, and treat the question as a real one.",
+      "rationale": "Humility does not require us to doubt everything, but to honestly reckon with our limited and partial point of view. Research on intellectual humility ties this willingness to question your own certainty to better reasoning and more accurate judgment.",
+      "endOfWeekReflection": "Was there a moment this week when the question actually changed your mind, or softened a position you were holding?"
+    },
+    {
+      "week": 5,
+      "virtue": "Presence",
+      "virtueTagline": "Be here now!",
+      "virtueDescription": "The habit of being wholly engaged in the moment. It helps you resist divided attention and deepen your grasp of what you are doing or who you are with.",
+      "goalTitle": "Give the opening of every encounter your whole attention",
+      "goalStatement": "For the first few minutes of every conversation, meeting, or shared meal, I will put my phone fully out of sight and give the person or task my undivided attention.",
+      "rationale": "Divided attention is now the norm, and the first minutes of an encounter are where it costs the most. Research has shown that a phone in view, even face down and untouched, draws your attention and lowers the sense of connection for both people. Putting it out of sight for those first minutes is a small rule that changes the footing of the whole exchange.",
+      "endOfWeekReflection": "Did giving the opening your full attention change how the encounter went, or how present you stayed after those first minutes?"
+    },
+    {
+      "week": 6,
+      "virtue": "Equanimity",
+      "virtueTagline": "Bring it back!",
+      "virtueDescription": "The habit of returning your focus when it wanders. It helps you notice distraction without self-reproach and reorient to the task, person, or experience at hand.",
+      "goalTitle": "Notice the pull, and come back",
+      "goalStatement": "When I catch my hand moving toward my phone without a real reason, I will pause, name what pulled me, and return to what I was doing.",
+      "rationale": "Reaching for the phone is usually not a choice, at least not a conscious one. Very often, it is an impulse arising from boredom, discomfort, or a hard stretch of work. This habit is about finding your center again when thrown off kilter, training your metacognitive ability to notice when your attention has wandered and to identify the situational cues that cause it.",
+      "endOfWeekReflection": "How often did the pull come without a real reason? Did naming it, and returning without scolding yourself, get any easier across the week?"
+    },
+    {
+      "week": 7,
+      "virtue": "Moral Sensitivity",
+      "virtueTagline": "Attend to what matters!",
+      "virtueDescription": "The habit of noticing the ethically significant dimensions of a situation. It helps you discern which facts, values, and relationships truly matter for judgment and action.",
+      "goalTitle": "Notice the moral dimension before you act",
+      "goalStatement": "Once a day, in a situation that carries some weight, I will pause before acting and ask what is ethically at stake: which values, whose interests, what would be right or wrong here.",
+      "rationale": "Skillful perception is seeing things as they are. The same can be said for values. Though not physically observable, moral sensitivity is the capacity to discern what matters and how much it matters, especially in cases of ethical deliberation or dilemma. But it is also just noticing when values are in play at all.",
+      "endOfWeekReflection": "Was there a moment this week when pausing to look surfaced an ethical dimension you would otherwise have moved straight past?"
+    }
+  ],
+  "eveningReflection": {
+    "openingLine": "It's time to look back on your day. There are no right answers. This is just for you.",
+    "closingLine": "That's it for today. See you tomorrow.",
+    "sections": [
+      {
+        "sectionNumber": 1,
+        "totalSections": 3,
+        "title": "Today's practice and goal",
+        "items": [
+          {
+            "prompt": "Did you do a micro-practice today?",
+            "responseType": "singleChoice",
+            "options": [
+              "No",
+              "Yes, one",
+              "Yes, more than one"
+            ]
+          },
+          {
+            "prompt": "If a practice was offered, how did you respond to it?",
+            "responseType": "singleChoice",
+            "options": [
+              "I did it right away",
+              "I snoozed it and did it later",
+              "I meant to but did not get back to it",
+              "I skipped it",
+              "No practice was offered today"
+            ]
+          },
+          {
+            "prompt": "Today's attentional goal was:",
+            "responseType": "display",
+            "options": []
+          },
+          {
+            "prompt": "Did you carry out today's attentional goal?",
+            "responseType": "singleChoice",
+            "options": [
+              "Yes",
+              "Partly",
+              "I meant to but did not",
+              "I did not have a clear chance",
+              "I forgot about it"
+            ]
+          },
+          {
+            "prompt": "Optional: anything you want to note about the practice or the goal today?",
+            "responseType": "freeText",
+            "options": []
+          }
+        ]
+      },
+      {
+        "sectionNumber": 2,
+        "totalSections": 3,
+        "title": "How you feel right now",
+        "instruction": "Thinking about yourself and how you normally feel, to what extent do you feel this way right now?",
+        "items": [
+          {
+            "prompt": "Attentive",
+            "responseType": "scale1to5",
+            "scaleLowLabel": "Very slightly or not at all",
+            "scaleHighLabel": "Extremely"
+          },
+          {
+            "prompt": "Alert",
+            "responseType": "scale1to5",
+            "scaleLowLabel": "Very slightly or not at all",
+            "scaleHighLabel": "Extremely"
+          },
+          {
+            "prompt": "Nervous",
+            "responseType": "scale1to5",
+            "scaleLowLabel": "Very slightly or not at all",
+            "scaleHighLabel": "Extremely"
+          },
+          {
+            "prompt": "Upset",
+            "responseType": "scale1to5",
+            "scaleLowLabel": "Very slightly or not at all",
+            "scaleHighLabel": "Extremely"
+          },
+          {
+            "prompt": "How tired do you feel right now?",
+            "responseType": "scale1to5",
+            "scaleLowLabel": "Not at all",
+            "scaleHighLabel": "Extremely"
+          },
+          {
+            "prompt": "Today, I found it difficult to keep my attention on what I was doing.",
+            "responseType": "scale1to5",
+            "scaleLowLabel": "Not at all",
+            "scaleHighLabel": "Very much"
+          }
+        ]
+      },
+      {
+        "sectionNumber": 3,
+        "totalSections": 3,
+        "title": "Attention and devices today",
+        "instruction": "Thinking back over today, how often did each of these happen?",
+        "items": [
+          {
+            "prompt": "My mind wandered away from what I was doing.",
+            "responseType": "scale1to5",
+            "scaleLowLabel": "Never",
+            "scaleHighLabel": "Very often"
+          },
+          {
+            "prompt": "Notifications or my phone pulled my attention away from what I was doing.",
+            "responseType": "scale1to5",
+            "scaleLowLabel": "Never",
+            "scaleHighLabel": "Very often"
+          },
+          {
+            "prompt": "I reached for a device without a clear reason for the task in front of me.",
+            "responseType": "scale1to5",
+            "scaleLowLabel": "Never",
+            "scaleHighLabel": "Very often"
+          },
+          {
+            "prompt": "I made a deliberate choice about when to use a device, to protect my attention.",
+            "responseType": "scale1to5",
+            "scaleLowLabel": "Never",
+            "scaleHighLabel": "Very often"
+          }
+        ]
+      }
+    ]
+  },
+  "periodicCheckIn": {
+    "administrationPoints": [
+      "Baseline (before Week 1)",
+      "Midpoint (after Week 4)",
+      "Completion (after Week 7)"
+    ],
+    "attentionalHabitsInventory": {
+      "prompt": "For each of the statements below, think about your experience during the past two weeks. Focus on what you actually did or noticed in your life, across work, study, and the social or everyday parts of your day, rather than what you think you are usually like or what you believe you should do. During the past two weeks, how often have the following been true for you?",
+      "scaleLowLabel": "Never",
+      "scaleHighLabel": "Very often",
+      "domains": [
+        {
+          "virtue": "Reality Orientation",
+          "virtueTagline": "See clearly!",
+          "items": [
+            {
+              "text": "I examined what was actually present before drawing conclusions.",
+              "isReverseKeyed": false
+            },
+            {
+              "text": "I slowed down enough to notice details I would usually miss.",
+              "isReverseKeyed": false
+            },
+            {
+              "text": "I let my assumptions decide what I saw.",
+              "isReverseKeyed": true
+            }
+          ]
+        },
+        {
+          "virtue": "Just Attention",
+          "virtueTagline": "Listen charitably!",
+          "items": [
+            {
+              "text": "I stayed attentive to others' views even when I disagreed.",
+              "isReverseKeyed": false
+            },
+            {
+              "text": "I let others finish explaining their points of view before responding.",
+              "isReverseKeyed": false
+            },
+            {
+              "text": "When listening to opposing views, I focused more on how I would respond than on fully understanding them.",
+              "isReverseKeyed": true
+            }
+          ]
+        },
+        {
+          "virtue": "Patience",
+          "virtueTagline": "Give it time!",
+          "items": [
+            {
+              "text": "I stayed with an unsettled question instead of rushing to an immediate answer.",
+              "isReverseKeyed": false
+            },
+            {
+              "text": "When a task felt tedious, I noticed my attention drifting and brought it back.",
+              "isReverseKeyed": false
+            },
+            {
+              "text": "I pushed for quick answers even when the issue needed time.",
+              "isReverseKeyed": true
+            }
+          ]
+        },
+        {
+          "virtue": "Humility",
+          "virtueTagline": "It's not all about you!",
+          "items": [
+            {
+              "text": "I noticed situations where my perspective or evidence might be incomplete.",
+              "isReverseKeyed": false
+            },
+            {
+              "text": "When I received feedback or correction, I took it personally.",
+              "isReverseKeyed": true
+            }
+          ]
+        },
+        {
+          "virtue": "Presence",
+          "virtueTagline": "Be here now!",
+          "items": [
+            {
+              "text": "My attention was with what I was doing, rather than split across other thoughts or activities.",
+              "isReverseKeyed": false
+            },
+            {
+              "text": "I kept working while my attention was elsewhere.",
+              "isReverseKeyed": true
+            }
+          ]
+        },
+        {
+          "virtue": "Equanimity",
+          "virtueTagline": "Bring it back!",
+          "items": [
+            {
+              "text": "After getting distracted, I recovered focus without blaming myself.",
+              "isReverseKeyed": false
+            },
+            {
+              "text": "I became frustrated by distraction and lost momentum.",
+              "isReverseKeyed": true
+            }
+          ]
+        },
+        {
+          "virtue": "Moral Sensitivity",
+          "virtueTagline": "Attend to what matters!",
+          "items": [
+            {
+              "text": "I noticed when something raised a question about fairness, harm, or responsibility.",
+              "isReverseKeyed": false
+            },
+            {
+              "text": "Ethical aspects of my decisions did not often come to mind.",
+              "isReverseKeyed": true
+            }
+          ]
+        }
+      ],
+      "qualitativeQuestions": [
+        "Where did you find it hardest to stay attentive in the past two weeks, and why?",
+        "When have you felt most present or engaged lately, and what conditions made that possible?",
+        "Did you encounter a situation in the past two weeks that felt ethically significant or revealing in some way? What made it stand out to you?"
+      ]
+    },
+    "digitalBehaviorsInventory": {
+      "prompt": "During the past two weeks, think about how you used technology in your life, whether for work, study, communication, or social activities. How often have the following been true for you?",
+      "scaleLowLabel": "Never",
+      "scaleHighLabel": "Very often",
+      "items": [
+        {
+          "text": "Digital notifications or online content pulled my attention away from what I was doing.",
+          "isReverseKeyed": true
+        },
+        {
+          "text": "I reached for a digital device without a clear reason related to the task at hand.",
+          "isReverseKeyed": true
+        },
+        {
+          "text": "I made deliberate choices about when or how to use digital devices in order to protect my attention.",
+          "isReverseKeyed": false
+        },
+        {
+          "text": "I switched between digital tasks in ways that made it harder to stay focused.",
+          "isReverseKeyed": true
+        },
+        {
+          "text": "Digital tools supported my attention by helping me stay organized or engaged with my work.",
+          "isReverseKeyed": false
+        }
+      ]
+    }
+  }
+}
