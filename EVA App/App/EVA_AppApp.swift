@@ -8,10 +8,12 @@
 import SwiftUI
 
 @main
-struct EVA_AppApp: App {
+struct EVAApp: App {
+    private let dependencies = AppDependencies.live
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootTabBar(dependencies: dependencies)
         }
     }
 }

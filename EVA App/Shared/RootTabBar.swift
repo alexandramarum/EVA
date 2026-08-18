@@ -8,10 +8,12 @@
 import Foundation
 import SwiftUI
 
-struct TabBar: View {
+struct RootTabBar: View {
+    var dependencies: AppDependencies
+    
     var body: some View {
         TabView {
-            Tab("Today", systemImage: "sun.max.fill") { TodayView() }
+            Tab("Today", systemImage: "sun.max.fill") { TodayView(vm: .init(content: dependencies.contentRepository, weekState: dependencies.weekState)) }
             Tab("Practices", systemImage: "diamond") {}
             Tab("Program", systemImage: "smallcircle.filled.circle") {}
             Tab("Journal", systemImage: "book") {}

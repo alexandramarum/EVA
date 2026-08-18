@@ -28,7 +28,7 @@ struct EVAContentService {
     private let resourceName: String
     private let bundle: Bundle
 
-    init(resourceName: String = "EVAContent", bundle: Bundle = .main) {
+    init(resourceName: String = "content", bundle: Bundle = .main) {
         self.resourceName = resourceName
         self.bundle = bundle
     }
@@ -52,7 +52,7 @@ struct EVAContentService {
             throw EVAContentServiceError.decodeFailed(error)
         }
     }
-
+    
     func loadContentAsync() async throws -> EVAContentLibrary {
         try await Task.detached(priority: .userInitiated) {
             try loadContent()
